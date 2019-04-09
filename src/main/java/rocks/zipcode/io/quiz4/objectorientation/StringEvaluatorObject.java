@@ -8,14 +8,19 @@ public class StringEvaluatorObject {
     }
 
     public String[] getAllSubstrings() {
+
+
         return null;
     }
 
     public String[] getCommonSubstrings(String secondInput) {
+
         return null;
     }
 
     public String getLargestCommonSubstring(String secondInput) {
+
+
         return null;
     }
 }
